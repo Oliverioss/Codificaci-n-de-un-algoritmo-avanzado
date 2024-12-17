@@ -1,1 +1,1 @@
-# Codificaci-n-de-un-algoritmo-avanzado
+# Codificacion-de-un-algoritmo-avanzado
